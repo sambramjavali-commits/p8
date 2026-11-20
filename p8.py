@@ -38,4 +38,3 @@ print("Maximum Score:", maximum)
 print("Minimum Score:", minimum)
 
 
-
